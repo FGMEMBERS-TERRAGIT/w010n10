@@ -1,2 +1,8 @@
 OBJECT_SHARED Models/Airport/ndb.ac -4.087889 14.511 274.3 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -4.064722 14.526056 275.41 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -4.08475 14.51138 0.00 134.84
+OBJECT_SHARED Models/lib/office40x25.ac -4.08605 14.51043 272.88 313.63
+# END dsf2stg
